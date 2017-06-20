@@ -81,6 +81,7 @@ nav {
               url("../../images/bg_intro002.png") left 0 top 50% repeat-x;
 
   @include media( sm ) {
+    height: 333px;
     padding: 0 70px 0 130px;
     background-position: left 0 top 50%, right 0 top 50%, left 0 top 50%;
   }
